@@ -1,4 +1,5 @@
 - 编程爱好者 @Wills Hua
+- 硕士研究生, 经济学，统计学
 - 量化策略开发
 - Python, Julia, Scala, Go
 
