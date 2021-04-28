@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @willshua.
-- 👀 I’m interested in Quant & Data Science.
-- 🌱 I’m currently learning Python, Julia, Scala, Go.
-- 📫 wills.hua96@gmail.com
+编程爱好者 @Wills Hua
+量化策略开发
+Python, Julia, Scala, Go
 
 <!---
 willshua/willshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
