@@ -1,4 +1,4 @@
-- 编程爱好者 @Wills Hua [wills.hua96@gmail.com]
+- 编程爱好者 @Wills Hua wills.hua96@gmail.com
 - 硕士研究生，经济学，统计学
 - 量化策略开发
 - Python，C++，Julia，Scala，Go...
