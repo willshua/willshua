@@ -1,7 +1,7 @@
 - 编程爱好者 @Wills Hua
-- 硕士研究生, 经济学，统计学
+- 硕士研究生，经济学，统计学
 - 量化策略开发
-- Python, Julia, Scala, Go
+- Python，C++，Julia，Scala，Go...
 
 <!---
 willshua/willshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
